@@ -1,0 +1,6 @@
+src/__pycache__/
+src/service/__pycache__/
+__pycache__/
+.idea/
+dist/
+zhihu_404_crawl.egg-info/

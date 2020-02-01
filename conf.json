@@ -1,0 +1,24 @@
+{
+    "REDIS_HOST": "127.0.0.1",
+    "REDIS_PORT": 6379,
+    "REDIS_PASSWORD": "xxx",
+    "EMAIL_ACCOUNT": "邮箱",
+    "EMAIL_PASSWORD": "密码",
+    "RECEIVERS": [
+        "codelover@qq.com"
+    ],
+    "NEWS_FLAGS_KEYS": [
+        {
+            "flag_key": "ncov_news_flags:yang_shi",
+            "source": "央视新闻"
+        },
+        {
+            "flag_key": "ncov_news_flags:renmin",
+            "source": "人民日报"
+        },
+        {
+            "flag_key": "ncov_news_flags:wjw",
+            "source": "卫健委"
+        }
+    ]
+}
